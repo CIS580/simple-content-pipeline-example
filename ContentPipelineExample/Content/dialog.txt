@@ -1,0 +1,3 @@
+﻿bob: How do we use content pipelines?
+mary: I'm not sure - let's listen closely
+teacher: Go figure it out for yourselves - I don't know!
